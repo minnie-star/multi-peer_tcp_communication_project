@@ -4,7 +4,7 @@ from crypto_utils import generate_rsa_keys, serialize_public_key, decrypt_aes_ke
 from session_manager import SessionManager
 
 HOST = '127.0.0.1'
-PORT = 6000   # use a free port
+PORT = 6000   
 
 session_manager = SessionManager()
 private_key, public_key = generate_rsa_keys()
