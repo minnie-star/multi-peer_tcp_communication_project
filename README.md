@@ -39,7 +39,7 @@ cd multi-peer_tcp_communication_project
 
 pip install -r requirements.txt
 python server.py
-python client.py
+python client_gui.py
 
 Configuration
 Default Ports:
