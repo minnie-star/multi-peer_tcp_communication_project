@@ -2,6 +2,8 @@
 
 A secure, end-to-end encrypted communication system built with Python sockets, supporting multiple peers connected through a central server. Each peer registers with a nickname, exchanges encrypted messages, and communicates seamlessly with others in real time.
 
+https://youtu.be/CZktSaq6K4o
+
 ---
 
 ## Features
