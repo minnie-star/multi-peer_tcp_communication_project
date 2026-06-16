@@ -22,11 +22,17 @@ https://youtu.be/CZktSaq6K4o
 ## Project Structure
 multi-peer_tcp_communication_project/
 │
+
 ├── server.py          # TCP server handling peer connections and relaying messages
+
 ├── client.py          # TCP client for sending/receiving encrypted messages
+
 ├── crypto_utils.py    # RSA/AES encryption utilities
+
 ├── session_manager.py # Tracks active peers and sessions
+
 ├── rest_api.py        # Flask-based REST API for external interaction
+
 └── README.md          # Project documentation
 
 
